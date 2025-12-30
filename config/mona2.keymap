@@ -50,7 +50,7 @@
         };
 
         scr {
-            bindings = <&lt 6 SPACE>;
+            bindings = <&lt 3 SPACE>;
             key-positions = <14 13>;
         };
     };
